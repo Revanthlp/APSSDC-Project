@@ -32,15 +32,7 @@ The implementation is done using **Python** in **Google Colab**, with a complete
 
 ```
 
-Ownership-Cost-Forecasting/
-│
-├── data/                  # Dataset (CSV or Excel files of car sales/maintenance)
-├── notebooks/             # Jupyter/Colab notebooks for step-by-step implementation
-├── src/                   # Source code for preprocessing, model, and evaluation
-├── visuals/               # Saved plots and graphs
-│
-├── README.md              # Project documentation
-└── requirements.txt       # Python dependencies
+
 
 ````
 
@@ -52,7 +44,7 @@ The dataset includes information such as:
 - **Financials:** Sale Price, Maintenance Cost, Insurance Cost  
 - **Depreciation Trends:** Historical values based on car age  
 
-> Note: If you’re using a public dataset (e.g., Kaggle), include the dataset link here.  
+Dataset: (https://github.com/Revanthlp/APSSDC-Project/blob/main/pre_owned_cars_synthetic_dataset.csv)
 
 ---
 
@@ -87,7 +79,7 @@ The dataset includes information such as:
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/Ownership-Cost-Forecasting.git
+   git clone https://github.com/Revanthlp/Ownership-Cost-Forecasting.git
    cd Ownership-Cost-Forecasting
 ````
 
@@ -148,5 +140,4 @@ This project is licensed under the **MIT License** – you are free to use, modi
 
 ---
 
-👉 Do you also want me to generate the **`requirements.txt` file code block** (with all the necessary Python dependencies) so you can paste that as well?
 ```
